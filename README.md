@@ -18,3 +18,7 @@ The Crop Recommendation System represents the pinnacle of data-driven agricultur
 ![280184302-a4fb2eaa-e9b8-409a-97a6-25b1e9e8456a](https://github.com/Patsonu63/Crop-Recommendation-system/assets/79435290/0adf8336-7ff9-46d0-936b-c7c9bcc4d779)
 
 ![image](https://github.com/Patsonu63/Crop-Recommendation-system/assets/79435290/a5e6772f-6f7c-4338-9bfe-6f73371df51c)
+![prediction_back](https://github.com/Patsonu63/Crop-Recommendation-system/assets/79435290/7859dd05-8012-483b-a6ba-e6091e127e99)
+![one](https://github.com/Patsonu63/Crop-Recommendation-system/assets/79435290/52e01c45-0998-436f-ad87-fb662d957ec5)
+
+
